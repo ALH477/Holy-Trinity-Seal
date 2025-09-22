@@ -4,11 +4,11 @@ The Sierpinski Trinity Seal is a 3-stage fractal approximation of the Sierpinski
 
 ![Seal](sealcrosswhite.png)
 
-**Sierpinski Gasket Equation:**
+### Sierpinski Gasket Equation
 
-\[
-S = \left\{ (x, y) \in [0,1] \times [0, h] \ \middle|\ \exists\ (d_i), (e_i) \in \{0,1,2\}^\infty : x = \sum_{i=1}^{\infty} d_i 3^{-i},\ y/h = \sum_{i=1}^{\infty} e_i 3^{-i},\ \forall i: \neg (d_i = 1 \land e_i = 1) \right\}
-\]
+$$
+S = \{ (x, y) \in [0,1] \times [0, h] \ | \ \exists (d_i), (e_i) \in \{0,1,2\}^\infty : x = \sum_{i=1}^{\infty} d_i 3^{-i}, \ y/h = \sum_{i=1}^{\infty} e_i 3^{-i}, \ \forall i: \neg (d_i = 1 \land e_i = 1) \}
+$$
 
 where \( h = \sqrt{3}/2 \) (the height of the unit equilateral triangle). Here, digits map to Trinitarian vestiges: 0 (Father's *ex nihilo* origin), 1 (Son's mediatorial role), 2 (Spirit's unifying return). The prohibition \(\neg (d_i = 1 \land e_i = 1)\) ensures perichoretic balance, evoking John 10:30 ("I and the Father are one").
 
@@ -39,3 +39,6 @@ The equation's infinite series (\(\sum_{i=1}^{\infty} d_i 3^{-i}\)) extends beyo
 To engage the seal: trace its lines and circles in prayer, contemplating the 3^k progression as divine revelation's unfolding. The transparent SVG allows overlay on sacred imagery (e.g., Chi-Rho at centroid \((1/2, \sqrt{3}/6)\)). This is no mere symbol but a *lectio geometrica*—geometric meditation—unveiling the Logos in form and number, as per Aquinas (*Summa Theologica* I, q.28: relational distinctions in God).
 
 Finally, we conclude with a Trinitarian benediction from Scripture: "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen." (2 Corinthians 13:14, KJV)
+
+## License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details. Contributions are welcome, provided they align with the project's Christian theological focus and professional standards.
