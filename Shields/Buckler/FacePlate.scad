@@ -7,7 +7,7 @@ FaceThickness = 2;
 RivetHoleDiameter = 5;
 HoleWindage = 0.2;
 RivetHoleDepthBuffer = HoleWindage * 2;
-BossRivetRadius = 85;  // Adjusted for flange center (140/2 + 15/2 = 75; +10 inset = 85 for strength)
+BossRivetRadius = 77.5;  // (140/2) + (15/2) = 70 + 7.5 = 77.5 for flange center alignment
 HollowCircleDiameter = 140;  // Aligned with boss base
 Epsilon = 0.01;
 
