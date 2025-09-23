@@ -10,7 +10,7 @@ BossWallThickness = 1.5;
 RivetHoleDiameter = 5;
 HoleWindage = 0.2;
 RivetHoleDepthBuffer = HoleWindage * 2;
-BossRivetRadius = 85;  // Center of flange width, inset for strength
+BossRivetRadius = 77.5;  // Center of flange width, aligned with face (70 + 7.5)
 Epsilon = 0.01;
 
 $fn = 50;
